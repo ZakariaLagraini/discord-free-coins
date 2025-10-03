@@ -28,7 +28,7 @@ Copy code
 
 ```json
 "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,
-```json
+```
 Save the file and close the editor.
 
 3. Relaunch Discord
